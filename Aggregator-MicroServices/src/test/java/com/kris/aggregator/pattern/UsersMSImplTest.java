@@ -1,4 +1,4 @@
-package com.kris.aggregator.pattern;
+/*package com.kris.aggregator.pattern;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -23,3 +23,4 @@ public class UsersMSImplTest {
 	}
 
 }
+*/

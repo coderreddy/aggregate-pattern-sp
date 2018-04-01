@@ -1,0 +1,7 @@
+com/kris/aggregator/pattern/Person.class
+com/kris/aggregator/pattern/App.class
+com/kris/aggregator/pattern/Controller.class
+com/kris/aggregator/pattern/AddressMS.class
+com/kris/aggregator/pattern/AddressMSImpl.class
+com/kris/aggregator/pattern/UserMSImpl.class
+com/kris/aggregator/pattern/UserMS.class
